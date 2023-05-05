@@ -11,8 +11,9 @@ Spring 2023, [**Course Website**](https://sites.google.com/site/biplavsrivastava
 
 ## Common Student Project
 * Course project - chatbots for knowing about diseases from CDC and WebMD
->* GitHub link [to project, in Java](https://github.com/JamelChouarfia/CSCE240FinalProject), and all material. Specifically, [video](https://www.youtube.com/watch?v=RkxhZeKR0OI) and [presentation](https://github.com/JamelChouarfia/CSCE240FinalProject/blob/main/doc/CSCE%20240%20Final%20Project%20Presentation.pdf)
+GitHub link [to project, in Java](https://github.com/JamelChouarfia/CSCE240FinalProject), and all material. Specifically, [video](https://www.youtube.com/watch?v=RkxhZeKR0OI) and [presentation](https://github.com/JamelChouarfia/CSCE240FinalProject/blob/main/doc/CSCE%20240%20Final%20Project%20Presentation.pdf) 
 
+_One can also click image to see demo video._
 
 [![IMAGE ALT TEXT HERE](https://github.com/JamelChouarfia/CSCE240FinalProject/blob/main/DiseaseChatbotProject/images/ChatSessionImage.png)](https://www.youtube.com/watch?v=RkxhZeKR0OI)
 
